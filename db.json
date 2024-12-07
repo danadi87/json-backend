@@ -1,30 +1,5 @@
 {
-  "favorites": [
-    {
-      "id": "1",
-      "title": "Pride and Prejudice",
-      "author": "Jane Austen",
-      "genre": "Romance",
-      "description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work <her own darling child> and its vivacious heroine, Elizabeth Bennet, <as delightful a creature as ever appeared in print.> The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen’s radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England.",
-      "short-description": "The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring",
-      "pages": "279",
-      "cover_image": "/PrideandPrejudice.png",
-      "publish_year": "1813",
-      "price": "25"
-    },
-    {
-      "id": "2",
-      "title": "The Night Circus",
-      "author": "Erin Morgenstern",
-      "genre": "Romance",
-      "description": "The circus arrives without warning. No announcements precede it. It is simply there, when yesterday it was not. Within the black-and-white striped canvas tents is an utterly unique experience full of breathtaking amazements. It is called Le Cirque des Rêves, and it is only open at night. But behind the scenes, a fierce competition is underway—a duel between two young magicians, Celia and Marco, who have been trained since childhood expressly for this purpose by their mercurial instructors. Unbeknownst to them, this is a game in which only one can be left standing, and the circus is but the stage for a remarkable battle of imagination and will. Despite themselves, however, Celia and Marco tumble headfirst into love—a deep, magical love that makes the lights flicker and the room grow warm whenever they so much as brush hands.True love or not, the game must play out, and the fates of everyone involved, from the cast of extraordinary circus performers to the patrons, hang in the balance, suspended as precariously as the daring acrobats overhead. Written in rich, seductive prose, this spell-casting novel is a feast for the senses and the heart.",
-      "short-description": "Within the black-and-white striped canvas tents is an utterly unique experience full of breathtaking amazements.",
-      "pages": "506",
-      "cover_image": "/NightCirus.png",
-      "publish_year": "2011",
-      "price": "20"
-    }
-  ],
+  "favorites": [],
   "cart": [
     {
       "id": "3",
@@ -101,13 +76,14 @@
       "price": "65"
     },
     {
-      "id": "fbEMMt5"
-    },
-    {
-      "id": "uox2RF3"
-    },
-    {
-      "id": "vfHCfcP"
+      "title": "asdas",
+      "author": "Teresa",
+      "genre": "Fiction",
+      "description": "15",
+      "name": "Mirela",
+      "phoneNumber": "",
+      "emailAdress": "",
+      "id": "n9GZPPc"
     }
   ],
   "books": [
