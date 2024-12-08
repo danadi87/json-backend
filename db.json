@@ -85,6 +85,10 @@
       "cover_image": "/NightCirus.png",
       "publish_year": "2011",
       "price": "20"
+    },
+    {
+      "1": "",
+      "id": "lltnHx6"
     }
   ],
   "requested": [
@@ -161,16 +165,16 @@
       "price": "20"
     },
     {
-      "id": "3",
-      "title": "Persepolis",
-      "author": "Marjane Satrapi",
-      "genre": "Graphic Novel",
-      "description": "Persepolis is the story of Satrapi’s unforgettable childhood and coming of age within a large and loving family in Tehran during the Islamic Revolution; of the contradictions between private and public life in a country plagued by political upheaval; of her high school years in Vienna facing the trials of adolescence far from her family; of her homecoming—both sweet and terrible; and, finally, of her self-imposed exile from her beloved homeland. It is the chronicle of a girlhood and adolescence at once outrageous and familiar, a young life entwined with the history of her country yet filled with the universal trials and joys of growing up. Edgy, searingly observant, and candid, often heartbreaking but threaded throughout with raw humor and hard-earned wisdom—Persepolis is a stunning work from one of the most highly regarded, singularly talented graphic artists at work today.",
-      "short_description": "Persepolis is the story of Satrapi’s unforgettable childhood and coming of age within a large and loving family in Tehran during the Islamic Revolution",
-      "pages": "341",
-      "cover_image": "/persepolis.png",
-      "publish_year": "2007",
-      "price": "35"
+      "title": "Perseo",
+      "author": "",
+      "genre": "",
+      "description": "",
+      "short_description": "",
+      "pages": "",
+      "cover_image": "",
+      "publish_year": "",
+      "price": "",
+      "id": "3"
     },
     {
       "id": "4",
