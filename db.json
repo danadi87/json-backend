@@ -1,5 +1,30 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "id": "1",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work <her own darling child> and its vivacious heroine, Elizabeth Bennet, <as delightful a creature as ever appeared in print.> The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen’s radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England.",
+      "short_description": "The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring",
+      "pages": "279",
+      "cover_image": "/PrideandPrejudice.png",
+      "publish_year": "1813",
+      "price": "25"
+    },
+    {
+      "id": "5",
+      "title": "Horti Curious",
+      "author": "Ann Treneman",
+      "genre": "Science and Nature",
+      "description": "From forgotten folklore to famous gardeners, and from incredible edibles to poisonous plants, this compendium of curiosities celebrates the diverse wonders of horticulture and botany. Beautifully illustrated with botanical diagrams and graphics, this miscellany will inform and delight gardeners and plant lovers. A ‘pick and mix’ of horticultural knowledge, it ranges from local to global, filled with maps, historical biographies, scientific explorations, plant profiles, fun and unbelievable facts, recipes and tips.",
+      "short-description": "From forgotten folklore to famous gardeners, and from incredible edibles to poisonous plants, this compendium of curiosities celebrates the diverse wonders of horticulture and botany",
+      "pages": "224",
+      "cover_image": "/horticurious.png",
+      "publish_year": "2024",
+      "price": "38"
+    }
+  ],
   "cart": [
     {
       "id": "3",
@@ -36,6 +61,30 @@
       "cover_image": "",
       "publish_year": "2024",
       "price": "38"
+    },
+    {
+      "id": "1",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work <her own darling child> and its vivacious heroine, Elizabeth Bennet, <as delightful a creature as ever appeared in print.> The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen’s radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England.",
+      "short_description": "The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring",
+      "pages": "279",
+      "cover_image": "/PrideandPrejudice.png",
+      "publish_year": "1813",
+      "price": "25"
+    },
+    {
+      "id": "2",
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "genre": "Romance",
+      "description": "The circus arrives without warning. No announcements precede it. It is simply there, when yesterday it was not. Within the black-and-white striped canvas tents is an utterly unique experience full of breathtaking amazements. It is called Le Cirque des Rêves, and it is only open at night. But behind the scenes, a fierce competition is underway—a duel between two young magicians, Celia and Marco, who have been trained since childhood expressly for this purpose by their mercurial instructors. Unbeknownst to them, this is a game in which only one can be left standing, and the circus is but the stage for a remarkable battle of imagination and will. Despite themselves, however, Celia and Marco tumble headfirst into love—a deep, magical love that makes the lights flicker and the room grow warm whenever they so much as brush hands.True love or not, the game must play out, and the fates of everyone involved, from the cast of extraordinary circus performers to the patrons, hang in the balance, suspended as precariously as the daring acrobats overhead. Written in rich, seductive prose, this spell-casting novel is a feast for the senses and the heart.",
+      "short_description": "Within the black-and-white striped canvas tents is an utterly unique experience full of breathtaking amazements.",
+      "pages": "506",
+      "cover_image": "/NightCirus.png",
+      "publish_year": "2011",
+      "price": "20"
     }
   ],
   "requested": [
@@ -88,15 +137,16 @@
   ],
   "books": [
     {
-      "title": "",
-      "author": "",
-      "genre": "",
-      "description": "",
-      "pages": "",
-      "cover_image": "",
-      "publish_year": "",
-      "price": "",
-      "id": "1"
+      "id": "1",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work <her own darling child> and its vivacious heroine, Elizabeth Bennet, <as delightful a creature as ever appeared in print.> The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen’s radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England.",
+      "short_description": "The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring",
+      "pages": "279",
+      "cover_image": "/PrideandPrejudice.png",
+      "publish_year": "1813",
+      "price": "25"
     },
     {
       "id": "2",
@@ -128,7 +178,7 @@
       "author": "Lily Anderson",
       "genre": "Fiction",
       "description": "Red Solo cups? Check. Snacks? Check. Abandoned mansion full of countless horrors that won’t let you leave? Check. The Deinhart Manor has been a looming shadow over town for as long as anyone can remember, and it’s been abandoned for even longer. When the final Deinhart descendent passes, the huge gothic manor is up for sale for the first time ever. Which means Arden can steal the keys from her mom’s real estate office...It’s time for a graduation party that no one will ever forget. Arden and her best friends each have different reasons for wanting to throw the party to end all parties. But when the manor doors bar everyone inside and the walls begin to bleed, all anyone wants to do is make it out alive.",
-      "short_description": "Abandoned mansion full of countless horrors that won’t let you leave? Check",
+      "short-description": "Abandoned mansion full of countless horrors that won’t let you leave? Check",
       "pages": "304",
       "cover_image": "/KillerHouseParty.png",
       "publish_year": "2024",
@@ -140,9 +190,9 @@
       "author": "Ann Treneman",
       "genre": "Science and Nature",
       "description": "From forgotten folklore to famous gardeners, and from incredible edibles to poisonous plants, this compendium of curiosities celebrates the diverse wonders of horticulture and botany. Beautifully illustrated with botanical diagrams and graphics, this miscellany will inform and delight gardeners and plant lovers. A ‘pick and mix’ of horticultural knowledge, it ranges from local to global, filled with maps, historical biographies, scientific explorations, plant profiles, fun and unbelievable facts, recipes and tips.",
-      "short_description": "From forgotten folklore to famous gardeners, and from incredible edibles to poisonous plants, this compendium of curiosities celebrates the diverse wonders of horticulture and botany",
+      "short-description": "From forgotten folklore to famous gardeners, and from incredible edibles to poisonous plants, this compendium of curiosities celebrates the diverse wonders of horticulture and botany",
       "pages": "224",
-      "cover_image": "",
+      "cover_image": "/horticurious.png",
       "publish_year": "2024",
       "price": "38"
     },
