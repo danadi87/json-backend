@@ -23,6 +23,18 @@
       "cover_image": "/horticurious.png",
       "publish_year": "2024",
       "price": "38"
+    },
+    {
+      "id": "7",
+      "title": "The Never Ending Story",
+      "author": "Michael Ende",
+      "genre": "Fiction",
+      "description": "Bastian is nobody's idea of a hero, least of all his own. Through the pages of an old book he discovers a mysterious magical world - a world of dragons, monsters, witches and GIANTS! A world that is doomed unless a human can save it...Can Bastian succeed in battling terrible foes and find the strength he needs to give the Empress a new name?",
+      "short_description": "A world that is doomed unless a human can save it...",
+      "pages": "528",
+      "cover_image": "/TheNeverEndingStory.png",
+      "publish_year": "1979",
+      "price": "12"
     }
   ],
   "cart": [
@@ -85,6 +97,18 @@
       "cover_image": "/NightCirus.png",
       "publish_year": "2011",
       "price": "20"
+    },
+    {
+      "id": "11",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "dystopian",
+      "description": "A masterpiece of rebellion and imprisonment where war is peace freedom is slavery and Big Brother is watching. Thought Police, Big Brother, Orwellian - these words have entered our vocabulary because of George Orwell's classic dystopian novel 1984. The story of one man's Nightmare Odyssey as he pursues a forbidden love affair through a world ruled by warring states and a power structure that controls not only information but also individual thought and memory 1984 is a prophetic haunting tale More relevant than ever before 1984 exposes the worst crimes imaginable the destruction of truth freedom and individuality. With a foreword by Thomas Pynchon. This beautiful paperback edition features deckled edges and french flaps a perfect gift for any occasion ",
+      "short_description": "A masterpiece of rebellion and imprisonment where war is peace freedom is slavery and Big Brother is watching",
+      "pages": "368",
+      "cover_image": "https://www.theoriginalunderground.com/products/1984-george-orwell-cover-print",
+      "publish_year": "1949",
+      "price": "11"
     }
   ],
   "requested": [
