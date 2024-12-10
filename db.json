@@ -161,16 +161,16 @@
   ],
   "books": [
     {
-      "id": "1",
-      "title": "Pride and Prejudice",
-      "author": "Jane Austen",
-      "genre": "Romance",
-      "description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work <her own darling child> and its vivacious heroine, Elizabeth Bennet, <as delightful a creature as ever appeared in print.> The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen’s radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England.",
-      "short_description": "The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring",
-      "pages": "279",
-      "cover_image": "/PrideandPrejudice.png",
-      "publish_year": "1813",
-      "price": "25"
+      "title": "Pride",
+      "author": "",
+      "genre": "",
+      "description": "",
+      "short_description": "",
+      "pages": "",
+      "cover_image": "",
+      "publish_year": "",
+      "price": "",
+      "id": "1"
     },
     {
       "id": "2",
@@ -185,16 +185,16 @@
       "price": "20"
     },
     {
-      "id": "3",
-      "title": "Persepolis",
-      "author": "Marjane Satrapi",
-      "genre": "Graphic Novel",
-      "description": "Persepolis is the story of Satrapi’s unforgettable childhood and coming of age within a large and loving family in Tehran during the Islamic Revolution; of the contradictions between private and public life in a country plagued by political upheaval; of her high school years in Vienna facing the trials of adolescence far from her family; of her homecoming—both sweet and terrible; and, finally, of her self-imposed exile from her beloved homeland. It is the chronicle of a girlhood and adolescence at once outrageous and familiar, a young life entwined with the history of her country yet filled with the universal trials and joys of growing up. Edgy, searingly observant, and candid, often heartbreaking but threaded throughout with raw humor and hard-earned wisdom—Persepolis is a stunning work from one of the most highly regarded, singularly talented graphic artists at work today.",
-      "short_description": "Persepolis is the story of Satrapi’s unforgettable childhood and coming of age within a large and loving family in Tehran during the Islamic Revolution",
-      "pages": "341",
-      "cover_image": "/persepolis.png",
-      "publish_year": "2007",
-      "price": "35"
+      "title": "Perseo",
+      "author": "",
+      "genre": "",
+      "description": "",
+      "short_description": "",
+      "pages": "",
+      "cover_image": "",
+      "publish_year": "",
+      "price": "",
+      "id": "3"
     },
     {
       "id": "4",
@@ -399,6 +399,18 @@
       "cover_image": "",
       "publish_year": "2016",
       "price": "21"
+    },
+    {
+      "title": "One Hundred Years of Solitude ",
+      "author": "Gabriel García Márquez",
+      "genre": "Fiction",
+      "description": " This novel is a multi-generational saga that focuses on the Buendía family, who founded the fictional town of Macondo. It explores themes of love, loss, family, and the cyclical nature of history. The story is filled with magical realism, blending the supernatural with the ordinary, as it chronicles the family's experiences, including civil war, marriages, births, and deaths. The book is renowned for its narrative style and its exploration of solitude, fate, and the inevitability of repetition in history.",
+      "short_description": "",
+      "pages": "350",
+      "cover_image": "",
+      "publish_year": "1967",
+      "price": "32",
+      "id": "soHXPqc"
     }
   ]
 }
