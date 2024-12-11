@@ -123,54 +123,6 @@
       "id": "pMyoLNL"
     }
   ],
-  "requested": [
-    {
-      "id": "6",
-      "title": "Metamorphosis",
-      "author": "Franz Kafka",
-      "genre": "Fiction",
-      "description": "One morning, ordinary salesman Gregor Samsa wakes up to find himself transformed into a giant cockroach. Metamorphosis, Kafka's masterpiece of unease and black humour, is one of the twentieth century's most influential works of fiction, and is accompanied here by two more classic stories.",
-      "short_description": "One morning, ordinary salesman Gregor Samsa wakes up to find himself transformed into a giant cockroach",
-      "pages": "144",
-      "cover_image": "/Metamorphosis.png",
-      "publish_year": "1975",
-      "price": "25"
-    },
-    {
-      "id": "7",
-      "title": "The Never Ending Story",
-      "author": "Michael Ende",
-      "genre": "Fiction",
-      "description": "Bastian is nobody's idea of a hero, least of all his own. Through the pages of an old book he discovers a mysterious magical world - a world of dragons, monsters, witches and GIANTS! A world that is doomed unless a human can save it...Can Bastian succeed in battling terrible foes and find the strength he needs to give the Empress a new name?",
-      "short_description": "A world that is doomed unless a human can save it...",
-      "pages": "528",
-      "cover_image": "/TheNeverEndingStory.png",
-      "publish_year": "1979",
-      "price": "12"
-    },
-    {
-      "id": "8",
-      "title": "Butter",
-      "author": "Asako Yuzuki",
-      "genre": "Fiction",
-      "description": "Gourmet cook Manako Kajii sits in Tokyo Detention Centre convicted of the serial murders of lonely businessmen, who she is said to have seduced with her delicious home cooking. The case has captured the nation's imagination but Kajii refuses to speak with the press, entertaining no visitors. That is, until journalist Rika Machida writes a letter asking for her recipe for beef stew and Kajii can't resist writing back. Rika, the only woman in her news office, works late each night, rarely cooking more than ramen. As the visits unfold between her and the steely Kajii, they are closer to a masterclass in food than journalistic research. Rika hopes this gastronomic exchange will help her soften Kajii but it seems that she might be the one changing. With each meal she eats, something is awakening in her body, might she and Kaji have more in common than she once thought? Inspired by the real case of the convicted con woman and serial killer, <The Konkatsu Killer>, Asako Yuzuki's Butter is a vivid, unsettling exploration of misogyny, obsession, romance and the transgressive pleasures of food in Japan.",
-      "short_description": "Asako Yuzuki's Butter is a vivid, unsettling exploration of misogyny, obsession, romance and the transgressive pleasures of food in Japan",
-      "pages": "464",
-      "cover_image": "/Butter.png",
-      "publish_year": "2024",
-      "price": "65"
-    },
-    {
-      "title": "asdas",
-      "author": "Teresa",
-      "genre": "Fiction",
-      "description": "15",
-      "name": "Mirela",
-      "phoneNumber": "",
-      "emailAdress": "",
-      "id": "n9GZPPc"
-    }
-  ],
   "books": [
     {
       "title": "Pride",
