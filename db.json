@@ -35,10 +35,6 @@
       "cover_image": "/TheNeverEndingStory.png",
       "publish_year": "1979",
       "price": "12"
-    },
-    {
-      "3": "",
-      "id": "qdpOlnO"
     }
   ],
   "cart": [
@@ -74,7 +70,7 @@
       "description": "From forgotten folklore to famous gardeners, and from incredible edibles to poisonous plants, this compendium of curiosities celebrates the diverse wonders of horticulture and botany. Beautifully illustrated with botanical diagrams and graphics, this miscellany will inform and delight gardeners and plant lovers. A ‘pick and mix’ of horticultural knowledge, it ranges from local to global, filled with maps, historical biographies, scientific explorations, plant profiles, fun and unbelievable facts, recipes and tips.",
       "short_description": "From forgotten folklore to famous gardeners, and from incredible edibles to poisonous plants, this compendium of curiosities celebrates the diverse wonders of horticulture and botany",
       "pages": "224",
-      "cover_image": "",
+      "cover_image": "/horticurious.png",
       "publish_year": "2024",
       "price": "38"
     },
@@ -110,17 +106,9 @@
       "description": "A masterpiece of rebellion and imprisonment where war is peace freedom is slavery and Big Brother is watching. Thought Police, Big Brother, Orwellian - these words have entered our vocabulary because of George Orwell's classic dystopian novel 1984. The story of one man's Nightmare Odyssey as he pursues a forbidden love affair through a world ruled by warring states and a power structure that controls not only information but also individual thought and memory 1984 is a prophetic haunting tale More relevant than ever before 1984 exposes the worst crimes imaginable the destruction of truth freedom and individuality. With a foreword by Thomas Pynchon. This beautiful paperback edition features deckled edges and french flaps a perfect gift for any occasion ",
       "short_description": "A masterpiece of rebellion and imprisonment where war is peace freedom is slavery and Big Brother is watching",
       "pages": "368",
-      "cover_image": "https://www.theoriginalunderground.com/products/1984-george-orwell-cover-print",
+      "cover_image": "/1984.png",
       "publish_year": "1949",
       "price": "11"
-    },
-    {
-      "3": "",
-      "id": "sTN0OmH"
-    },
-    {
-      "5": "",
-      "id": "pMyoLNL"
     }
   ],
   "books": [
